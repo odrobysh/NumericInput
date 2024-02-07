@@ -1,4 +1,4 @@
-@testable import UIKitComponents
+@testable import NumericInput
 import XCTest
 
 final class LeadingZerosAppenderTest: XCTestCase {

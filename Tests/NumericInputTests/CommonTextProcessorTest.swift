@@ -1,4 +1,4 @@
-@testable import UIKitComponents
+@testable import NumericInput
 import XCTest
 
 class CommonTextProcessorTest: XCTestCase {
